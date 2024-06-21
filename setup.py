@@ -12,5 +12,5 @@ setup(
     ],
     author='Paula Palermo, Eitan Razuri Olazo, Daniele Boschetti',
     description='A Python package for stock data fetching, risk analysis, and visualization.',
-    url='https://github.com/yourusername/RiskSurfer',
+    url='https://github.com/dbosch1/RiskSurfer',
 )
